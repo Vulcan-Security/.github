@@ -54,20 +54,7 @@ To develop and maintain high-quality, open-source security tools that:
 
 <div align="center">
 
-## 📦 Featured Projects
-
-</div>
-
-### [Project Name]
-Brief description of a key tool or framework
-
-### [Project Name]
-Brief description of another significant project
-
-### [Project Name]
-Description of ongoing development
-
-<div align="center">
+<!-- Featured Projects Here -->
 
 ## 🤝 Contributing
 
