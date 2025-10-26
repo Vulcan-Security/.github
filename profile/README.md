@@ -10,7 +10,7 @@
 
 </div>
 
-## 🛡️ About Us
+## <p align="center">🛡️ About Us</p>
 
 Vulcan Security is a dedicated team of cybersecurity enthusiast and developers committed to creating powerful, ethical hacking tools and networking utilities. We believe in empowering security researchers, penetration testers, and network administrators with open-source solutions that enhance digital security.
 
