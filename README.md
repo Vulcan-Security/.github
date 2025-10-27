@@ -58,14 +58,8 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### [Project Name]
-Brief description of a key tool or framework
-
-### [Project Name]
-Brief description of another significant project
-
-### [Project Name]
-Description of ongoing development
+### NScan
+Our Network Scanner
 
 <div align="center">
 
