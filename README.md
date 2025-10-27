@@ -6,7 +6,7 @@
 
 ---
 
-**Projects Coming Soon So Stay Tuned**
+**Projects Coming Soon So Stay Tuned And People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
 
 </div>
 
