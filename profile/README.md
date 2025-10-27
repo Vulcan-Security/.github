@@ -6,11 +6,11 @@
 
 ---
 
-**Projects Coming Soon So Stay Tuned**
+**Projects Coming Soon So Stay Tuned And People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
 
 </div>
 
-## <p align="center">🛡️ About Us</p>
+## 🛡️ About Us
 
 Vulcan Security is a dedicated team of cybersecurity enthusiast and developers committed to creating powerful, ethical hacking tools and networking utilities. We believe in empowering security researchers, penetration testers, and network administrators with open-source solutions that enhance digital security.
 
@@ -54,7 +54,20 @@ To develop and maintain high-quality, open-source security tools that:
 
 <div align="center">
 
-<!-- Featured Projects Here -->
+## 📦 Featured Projects
+
+</div>
+
+### [Project Name]
+Brief description of a key tool or framework
+
+### [Project Name]
+Brief description of another significant project
+
+### [Project Name]
+Description of ongoing development
+
+<div align="center">
 
 ## 🤝 Contributing
 
