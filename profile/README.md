@@ -6,7 +6,7 @@
 
 ---
 
-**Projects Coming Soon So Stay Tuned And People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript Please Email Me If You Wanna Join And You Have These Skills**
+**Projects Coming Soon So Stay Tuned And People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
 
 </div>
 
@@ -58,14 +58,13 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### [Project Name]
-Brief description of a key tool or framework
+### NScan
+Our Network Scanner
 
-### [Project Name]
-Brief description of another significant project
-
-### [Project Name]
-Description of ongoing development
+### Check Out Our Libraries
+[XSS Library](github.com/Vulcan-Security/XSS-Library)
+[SQL Library](github.com/Vulcan-Security/SQLi-Library)
+[Google Dork Library - Coming Soon]
 
 <div align="center">
 
@@ -102,8 +101,8 @@ We encourage responsible vulnerability disclosure. Please report security issues
 </div>
 
 Our projects are maintained by:
-- **Core Maintainers**: Kanax01 (Owner)
-- **Security Review Board**: Role Open
+- **Core Maintainers**: Kanax01
+- **Security Review Board**: PLZ JOIN WE NEED PEOPLE EMAIL ME IF U WANNA JOIN
 - **Community Moderators**: Asmith-Commits
 
 <div align="center">
