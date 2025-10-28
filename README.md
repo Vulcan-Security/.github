@@ -61,6 +61,11 @@ To develop and maintain high-quality, open-source security tools that:
 ### NScan
 Our Network Scanner
 
+### Check Out Our Libraries
+[XSS Library](github.com/Vulcan-Security/XSS-Library)
+[SQL Library](github.com/Vulcan-Security/SQLi-Library)
+[Google Dork Library - Coming Soon]
+
 <div align="center">
 
 ## 🤝 Contributing
@@ -96,8 +101,8 @@ We encourage responsible vulnerability disclosure. Please report security issues
 </div>
 
 Our projects are maintained by:
-- **Core Maintainers**: Kanax01 (Owner)
-- **Security Review Board**: Role Open
+- **Core Maintainers**: Kanax01
+- **Security Review Board**: PLZ JOIN WE NEED PEOPLE EMAIL ME IF U WANNA JOIN
 - **Community Moderators**: Asmith-Commits
 
 <div align="center">
