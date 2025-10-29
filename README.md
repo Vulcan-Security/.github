@@ -6,7 +6,8 @@
 
 ---
 
-**Projects Coming Soon So Stay Tuned And People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
+ **Projects Coming Soon So Stay Tuned**
+ - **People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
 
 </div>
 
@@ -58,14 +59,17 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### NScan
+### [NScan](https://github.com/Vulcan-Security/Nscan-Dev)
 Our Network Scanner
 
-### Check Out Our Libraries
-[XSS Library](github.com/Vulcan-Security/XSS-Library)
-[SQL Library](github.com/Vulcan-Security/SQLi-Library)
-[Google Dork Library - Coming Soon]
+### [Airpods BLE Spoofer](https://github.com/Vulcan-Security/Airpods-BLE-Spoofer)
+A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range
 
+### Check Out Our Libraries
+- [XSS Library](github.com/Vulcan-Security/XSS-Library)
+- [SQL Library](github.com/Vulcan-Security/SQLi-Library)
+- Google Dork Library - Coming Soon
+- 
 <div align="center">
 
 ## 🤝 Contributing
@@ -126,9 +130,4 @@ All our tools are released under open-source licenses (typically MIT or GPL v3).
 
 ---
 
-<div align="center">
-
-**"In Vulcan's forge, we shape the tools that defend digital realms"**
-
-</div>
 <img align="center" src="vulcan.png">
