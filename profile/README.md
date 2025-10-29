@@ -130,9 +130,4 @@ All our tools are released under open-source licenses (typically MIT or GPL v3).
 
 ---
 
-<div align="center">
-
-**"In Vulcan's forge, we shape the tools that defend digital realms"**
-
-</div>
 <img align="center" src="vulcan.png">
