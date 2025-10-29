@@ -58,14 +58,17 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### NScan
+### [NScan](https://github.com/Vulcan-Security/Nscan-Dev)
 Our Network Scanner
 
-### Check Out Our Libraries
-[XSS Library](github.com/Vulcan-Security/XSS-Library)
-[SQL Library](github.com/Vulcan-Security/SQLi-Library)
-[Google Dork Library - Coming Soon]
+### [Airpods BLE Spoofer](https://github.com/Vulcan-Security/Airpods-BLE-Spoofer)
+A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range
 
+### Check Out Our Libraries
+- [XSS Library](github.com/Vulcan-Security/XSS-Library)
+- [SQL Library](github.com/Vulcan-Security/SQLi-Library)
+- Google Dork Library - Coming Soon
+- 
 <div align="center">
 
 ## 🤝 Contributing
