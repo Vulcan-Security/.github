@@ -61,7 +61,7 @@ To develop and maintain high-quality, open-source security tools that:
 Our Network Scanner
 
 ### [Airpods BLE Spoofer](https://github.com/Vulcan-Security/Airpods-BLE-Spoofer)
-A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range
+A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range with customaizable message
 
 ### Check Out Our Libraries
 - [XSS Library](github.com/Vulcan-Security/XSS-Library)
