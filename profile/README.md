@@ -5,7 +5,7 @@
 **Forging the Future of Security Tools**
 
 ---
- - **People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
+ - **People Wanted That Have Knowledge Of Networking, Web Development, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript, HTML, CSS, C#, C**
 
 </div>
 
