@@ -57,8 +57,8 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### [NScan](https://github.com/Vulcan-Security/Nscan-Dev)
-Our Network Scanner
+### [NScan <-- Currently Re Modeling/Making]
+Our Network Scanner (currently not availble because we are re making it 
 
 ### [Airpods BLE Spoofer](https://github.com/Vulcan-Security/Airpods-BLE-Spoofer)
 A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range with customaizable message
