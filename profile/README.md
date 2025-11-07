@@ -66,7 +66,7 @@ A fun little script that makes the connect to airpods UI pop up on all phone in 
 ### Check Out Our Libraries
 - [XSS Library](github.com/Vulcan-Security/XSS-Library)
 - [SQL Library](github.com/Vulcan-Security/SQLi-Library)
-- Google Dork Library - Coming Soon
+- [Google Dork Library](https://github.com/Vulcan-Security/Google-Dork-Library)
 - 
 <div align="center">
 
