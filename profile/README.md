@@ -6,7 +6,7 @@
 
 ---
  - **People Wanted That Have Knowledge Of Networking, Web Development, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript, HTML, CSS, C#, C**
- - **NScan Is Being Re-Made So Stay Tuned For Its Re-Release**
+ ### NScan Is Being Re-Made So Stay Tuned For Its Re-Release
 </div>
 
 ## 🛡️ About Us
