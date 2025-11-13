@@ -4,11 +4,11 @@
 
 **Forging the Future of Security Tools**
 
+**[Support 🇺🇦 Ukraine](https://war.ukraine.ua/support-ukraine/)**
+
 ---
-
- **Projects Coming Soon So Stay Tuned**
- - **People Wanted That Have Knowledge Of Networking, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript**
-
+ - **People Wanted That Have Knowledge Of Networking, Web Development, Hacking Of Any Kind, Languages Such As; C++, C, Java, Bash, Python, Javascript, HTML, CSS, C#, C**
+ ### NScan Is Being Re-Made So Stay Tuned For Its Re-Release
 </div>
 
 ## 🛡️ About Us
@@ -59,16 +59,16 @@ To develop and maintain high-quality, open-source security tools that:
 
 </div>
 
-### [NScan](https://github.com/Vulcan-Security/Nscan-Dev)
-Our Network Scanner
+### [NScan <-- Currently Re Modeling/Making]
+Our Network Scanner (currently not availble because we are re making it 
 
 ### [Airpods BLE Spoofer](https://github.com/Vulcan-Security/Airpods-BLE-Spoofer)
-A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range
+A fun little script that makes the connect to airpods UI pop up on all phone in Bluetooth range with customaizable message
 
 ### Check Out Our Libraries
 - [XSS Library](github.com/Vulcan-Security/XSS-Library)
 - [SQL Library](github.com/Vulcan-Security/SQLi-Library)
-- Google Dork Library - Coming Soon
+- [Google Dork Library](https://github.com/Vulcan-Security/Google-Dork-Library)
 - 
 <div align="center">
 
